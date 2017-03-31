@@ -1,0 +1,57 @@
+.simplelogo {
+	position: absolute;
+	left: 10px;
+	top: 50px;
+}
+
+.search-simple {
+	margin: 10px 20px 40px;
+	padding: 1px;
+}
+
+.search-simple-warp {
+	border: 2px solid #C40000;
+}
+
+.search-simple-warp input {
+	margin: 2px;
+	border: 1px solid transparent;
+	outline: none;
+	width: 225px;
+	height: 34px;
+}
+
+.search-simple-warp button {
+	width: 60px;
+	height: 38px;
+	font-size: 14px;
+	color: white;
+	border: 1px solid transparent;
+	background-color: #C40000;
+}
+
+.search-simple ul {
+	margin-top: 3px;
+	margin-left: -60px;
+}
+
+.search-simple li {
+  display: inline-block;
+  padding: 0 20px;
+	list-style: none;
+	border-left: 1px solid #999;
+	line-height: 14px;
+}
+
+.search-simple li a {
+	text-decoration: none;
+	color: #999;
+	font-size: 14px;
+	
+
+}
+
+.search-simple li a:hover {
+	color: #C40000;
+}
+
