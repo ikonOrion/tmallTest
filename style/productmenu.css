@@ -37,9 +37,9 @@
 
 .homepageCategoryProducts {
 	background-color: #F5F5F5;
-	padding: 50px 10px 50px 10px;
-	margin: 10px auto;
-	max-width: 100%;
+	padding: 3.96% 0.79%;
+	margin: 10px auto 0px;
+	width: 100%;
 }
 
 .productItem {
@@ -82,7 +82,8 @@
 }
 
 .eachHomepageCategoryProducts {
-	margin: 0px 0px 40px 0px;
+	margin: 0px auto 40px;
+	width: 1243px;
 }
 
 a.productItemDescLink {

@@ -1,18 +1,27 @@
 .header {
-	margin: 0 120px;
-	padding: 10px 0 20px 0;
-	width: 980px;
+	margin: 0 auto;
+	padding: 10px 0 0 0;
+	width: 77.5%;
   box-sizing:border-box;
+}
+
+.clearfix:after {visibility: hidden;display: block;font-size: 0;content: " ";clear: both;height: 0;} 
+.clearfix{*zoom:1;} 
+
+
+.clearfix {
+  overflow: auto;
+  zoom: 1;
 }
 
 .logo {
 	float: left;
-	width: calc(1280px/2-200px-120px);
+	width: 290px;
 }
 
 .search-top {
 	display: inline-block;
-	margin: 30px 0 0 30px;
+	margin: 3% 0 0 3%;
 
 }
 

@@ -20,11 +20,11 @@ img.catear {
 	display: inline-block;
 	margin-left: 10%;
 	background-color: #C60A0A;
-	width: 200px;
+	width: 15.83%;
 }
 
 .head-carousel-bar-left span {
-	margin-left: 10px;
+	margin-left: 5%;
 	color: white;
 	font-size: 16px;
 	font-weight: bold;
@@ -34,12 +34,13 @@ img.catear {
 .head-carousel-bar-right {
 	display: inline-block;
 	height: 36px;
+	width: 60.5%;
 }
 
 
 
 .head-carousel-bar-right a {
-	margin:0 20px;
+	margin:0 2.617%;
 	text-decoration:none;
 	color: white;
 }
@@ -51,12 +52,12 @@ img.catear {
 
 .carousel-product {
 	margin: 0 auto;
-	height: 510px;
-	width: 1024px;
+	height: 40.38%;
+	width: 81.08%;
 }
 
 .carousel-product img {
-	height: 510px !important;
+	height: 49.8% !important;
 }
 
 .carouselBackground {
@@ -69,18 +70,18 @@ img.catear {
 }
 
 .categoryWithCarousel {
-	width: 200px;
+	width: 15.84%;
 	background-color: #e2e2e3;
-	margin-left: 20px;
+	margin-left: 1.584%;
 	position: absolute;
-	left: 106px;
-	top: 36px;
+	left: 8.39%;
+	top: 6.85%;
 	z-index: 1;
 }
 
 .productsAsideCategorys {
-	width: 800px;
-	height: 510px;
+	width: 400%;
+	height: 100%;
 	background-color: white;
 /*	margin-left: 220px;*/
 	position: absolute;
